@@ -1,1 +1,13 @@
 /* Your external CSS styles go here */
+.loader-container{
+    width: 100%;
+    height: 60px;
+    border: 2px solid green;
+    background-color: aqua;
+
+}
+
+h1 {
+    background-color: rgba(180, 206, 64, 0.801);
+    color: rgb(13, 122, 212);
+}
