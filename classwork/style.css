@@ -30,3 +30,11 @@ h1 {
   body {
     background-color:rgba(2, 15, 17, 0.644);
   }
+
+  p.ex1{
+    margin: 35px;
+  }
+  p.ex1 {
+    border: 5px solid rgb(114, 168, 12); 
+    padding: 35px;
+  }
