@@ -1,1 +1,13 @@
 /* Your responsive CSS styles go here */
+.main-menu{
+    width: 15%;
+    
+  padding: 25px;
+  border: 5px solid rgb(136, 255, 0);
+} 
+.profile-title{
+  background-color:#202224;
+  padding:5px;
+  float:left;
+  width:15%;
+}
